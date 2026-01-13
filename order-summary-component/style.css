@@ -115,8 +115,7 @@ main {
 }
 
 .card {
-    width: 100px;
-    min-width: 327px;
+    width: 327px;
     min-height: 620px;
     text-align: center;
     background-color: var(--color-white);
@@ -198,7 +197,7 @@ main {
     align-items: center;
 }
 
-.card__order-button input {
+.card__order-button button {
     height: 50px;
     width: 279px;
     border: 0px;
@@ -208,7 +207,7 @@ main {
     box-shadow: 0 20px 20px rgba(56, 42, 225, 0.19);
 }
 
-.card__order-button input:hover {
+.card__order-button button:hover {
     cursor: pointer;
     background-color: var(--color-purple-500);
 }
@@ -242,3 +241,4 @@ main {
         height: 50px;
         width: 354px;
     }
+}
