@@ -33,8 +33,3 @@ Users should be able to:
 - Implementing a design system with CSS custom properties
 - Following BEM naming conventions for maintainable CSS
 - Translating Figma designs to code (spacing, shadows, typography)
-
-## Author
-
-- Frontend Mentor - [@velukuberan]
-- GitHub - [@velukuberan]
