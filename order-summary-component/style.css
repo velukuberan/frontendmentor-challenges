@@ -205,10 +205,10 @@ main {
     background-color: var(--color-blue-700);
     color: white;
     box-shadow: 0 20px 20px rgba(56, 42, 225, 0.19);
+    cursor: pointer;
 }
 
 .card__order-button button:hover {
-    cursor: pointer;
     background-color: var(--color-purple-500);
 }
 
@@ -237,7 +237,7 @@ main {
         width: 354px;
     }
     
-    .card__order-button input {
+    .card__order-button button {
         height: 50px;
         width: 354px;
     }
