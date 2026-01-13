@@ -1,10 +1,8 @@
-Here's a README description for your completed project:
-
----
-
 # Order Summary Component
 
 A Frontend Mentor challenge solution - an order summary card component built with semantic HTML and CSS.
+
+![Design preview for the Order summary card coding challenge](preview.jpg)
 
 ## Overview
 
@@ -17,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add your solution URL]
-- Live Site URL: [Add your live site URL]
+- Solution URL: [https://github.com/velukuberan/frontendmentor-challenges/tree/main/order-summary-component]
+- Live Site URL: [https://velukuberan.github.io/frontendmentor-challenges/order-summary-component/]
 
 ## My Process
 
@@ -40,7 +38,3 @@ Users should be able to:
 
 - Frontend Mentor - [@velukuberan]
 - GitHub - [@velukuberan]
-
----
-
-Want me to adjust anything—add more sections, change the wording, or include specific details about techniques you used?
